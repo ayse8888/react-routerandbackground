@@ -2,7 +2,7 @@ import React from 'react'
 
 function Footer(){
   return(
-    <footer className="p-4 border-top">
+    <footer className="p-4 mt-4 border-top">
     <div className="row">
       <div className="col-12 col-md">
         <img className="mb-2" src="https://st2.depositphotos.com/5486284/11111/v/950/depositphotos_111115376-stock-illustration-lets-travel-brush-handwriting-lettering.jpg" alt="" width="60" height="60" />
